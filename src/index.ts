@@ -1,4 +1,5 @@
-console.log("Supermercado Mardel");
+console.log(" Bienvenidos a ¨Supermercado Mardel¨");
+console.log("nuestro stock es:");
 console.log(" azucar, 50 unidades");
 console.log(" yerba, 35 unidades");
 console.log("azucar, 68 unidades");
